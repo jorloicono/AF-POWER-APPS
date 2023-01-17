@@ -79,7 +79,8 @@
 
 ## Crear flujos desde plantillas en Power Automate
 
-- Crear una página de OneNote para el próximo evento Guardar tweets en una lista de SharePoint
+- Crear una página de OneNote para el próximo evento 
+- Guardar tweets en una lista de SharePoint
 - Guardar respuestas de un formulario
 
 ## Microsoft Dataverse
