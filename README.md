@@ -81,7 +81,8 @@
 
 - Crear una página de OneNote para el próximo evento Guardar tweets en una lista de SharePoint
 - Guardar respuestas de un formulario
-- Microsoft Dataverse
+
+## Microsoft Dataverse
 - Presentación de las aplicaciones basadas en modelos y Dataverse
 - Crear tablas en Dataverse 
 - Creación y administración de columnas en una tabla en Dataverse
