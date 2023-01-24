@@ -4,8 +4,8 @@
 
 - Aplicaciones de linea de negocio (LOB)
 - Plataforma de aplicaciones de negocio
-- Qué es Microsoft Power Apps
-- Qué es Microsoft Power Automate
+- ¿Qué es Microsoft Power Apps?
+- ¿Qué es Microsoft Power Automate?
 
 ## Creando nuestra primera App con Power Apps
 
@@ -52,27 +52,26 @@
 - Preparar la lista de SharePoint
 - Crear la aplicación desde SharePoint
 - Examinando la aplicación
-- El control galeria
 - Formularios y vistas
 
 ## Cómo funciona Power Automate
 
-- Conectores
 - Tipos de flujos de trabajo
 - Flujos de aprobación
 - Flujos de botón
 - Flujos de recopilación de información
 - Flujos de correo electrónico
-- Flujos de calendario Flujos de móviles
+- Flujos de calendario 
+- Flujos de móviles
 - Flujos de notificaciones
 - Flujos de redes sociales
 - Flujos de sincronización
-- Crear variables y colecciones en Power Apps Inicializar un flujo de Power Automate con Power Apps
+- Crear variables y colecciones en Power Apps 
+- Inicializar un flujo de Power Automate con Power Apps
 - Devolver información de Power Automate a Power Apps
 
 ## Crear flujos desde 0 en Power Automate
 
-- Tipos de flujos desde 0
 - Crear un flujo automatizado
 - Crear un flujo instantaneo
 - Crear un flujo programado
@@ -84,6 +83,7 @@
 - Guardar respuestas de un formulario
 
 ## Microsoft Dataverse
+
 - Presentación de las aplicaciones basadas en modelos y Dataverse
 - Crear tablas en Dataverse 
 - Creación y administración de columnas en una tabla en Dataverse
