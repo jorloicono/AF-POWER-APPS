@@ -1,4 +1,4 @@
-**Preparación de datos en Power BI Desktop**
+# Preparación de datos en Power BI Desktop
 
 **El tiempo estimado para completar el laboratorio es de 45 minutos.**
 
