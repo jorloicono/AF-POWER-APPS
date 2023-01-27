@@ -15,7 +15,7 @@
 - Ejecutar la aplicación
 - Examinar la aplicación
 
-## Formulas con Power Apps
+## Formulas en Power Apps
 
 - Introducción a las fórmulas
 - Variables
@@ -23,7 +23,7 @@
 - Números
 - Fechas
 
-## Controles con Power Apps
+## Controles en Power Apps
 
 - Propiedades básicas, fuentes y colores
 - Etiquetas
@@ -35,7 +35,7 @@
 - Galeria
 - Iconos
 
-## Trabajo de datos con Power Apps
+## Trabajo con datos en Power Apps
 
 - Colecciones
 - Funciones relacionadas con colecciones Collect, Clear y ClearCollect
@@ -47,14 +47,14 @@
 - Actualizar y crear registros con Patch
 - Eliminar registros con Remove y Removef
 
-## Crear Aplicaciones desde SharePoint 
+## Crear aplicaciones desde SharePoint 
 
 - Preparar la lista de SharePoint
 - Crear la aplicación desde SharePoint
 - Examinando la aplicación
 - Formularios y vistas
 
-## Cómo funciona Power Automate
+## Introducción a Power Automate
 
 - Tipos de flujos de trabajo
 - Flujos de aprobación
