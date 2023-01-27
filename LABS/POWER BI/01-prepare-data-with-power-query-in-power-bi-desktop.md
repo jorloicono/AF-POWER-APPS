@@ -1,15 +1,4 @@
----
-lab:
-  title: Preparación de datos en Power BI Desktop
-  module: Module 2 - Get Data in Power BI
-ms.openlocfilehash: deaa403224e029a08c91ed5137693d51ac30fcab
-ms.sourcegitcommit: 3520e7d016e94549d408464207c1b91cd47867c2
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2022
-ms.locfileid: "139840413"
----
-# <a name="prepare-data-in-power-bi-desktop"></a>**Preparación de datos en Power BI Desktop**
+**Preparación de datos en Power BI Desktop**
 
 **El tiempo estimado para completar el laboratorio es de 45 minutos.**
 
