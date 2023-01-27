@@ -1,7 +1,5 @@
 # Preparación de datos en Power BI Desktop
 
-**El tiempo estimado para completar el laboratorio es de 45 minutos.**
-
 En este laboratorio, empezará a desarrollar una solución de Power BI Desktop para la empresa Adventure Works. A lo largo del proceso, conectará con datos de origen, obtendrá una vista previa de los datos y usará técnicas de vista previa de datos para comprender las características y la calidad de los datos de origen.
 
 En este laboratorio, aprenderá a:
